@@ -8,7 +8,7 @@ Passionate about building scalable, real-world software that combines the power 
 
 I enjoy transforming ideas into production-ready applications by developing intuitive user experiences, robust backend systems, and intelligent AI-powered features. My work spans across the MERN stack, RESTful APIs, authentication systems, cloud deployment, and machine learning integration, allowing me to create end-to-end solutions rather than isolated components.
 
-I'm particularly fascinated by how AI can enhance modern applications—from intelligent automation and text classification to recommendation systems and predictive analytics. I enjoy integrating machine learning models into web applications to solve practical problems and deliver smarter user experiences.
+I'm particularly fascinated by how AI can enhance modern applications using intelligent automation and text classification to recommendation systems and predictive analytics. I enjoy integrating machine learning models into web applications to solve practical problems and deliver smarter user experiences.
 
 Alongside development, I actively strengthen my foundation in Data Structures & Algorithms, system design, and software engineering principles to write efficient, scalable, and maintainable code.
 
